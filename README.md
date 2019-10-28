@@ -5,7 +5,7 @@ The African Development Bank Group statistical data portal offers an immense ran
 
 The African continent is made of young developing countries and is full of unexploited resources and unexplored richness. This thus provides a ground for development and growth. In an absence of financial resources and historical power, education is the best tool for a socio-economical revolution, especially when we consider that this continent has a demographically young population. 
 
-As a further endeavor, we hope to come up with a prediction model of 
+As a further endeavor, using machine learning tools, we hope to come up with a new socio-economic index quantifying the effectiveness and importance of a country's efforts in developing education.
 
 
 # Research questions
