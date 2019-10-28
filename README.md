@@ -1,5 +1,7 @@
 # Education In Africa
 
+Investing in young minds as a business model.
+
 # Abstract
 The *African Development Bank Group* statistical data portal offers an immense range of socio-economic indicators for each African country from 1960 until now. This three-dimensional data precision (country, year, over 200 indicators) provides sufficient tools for our project to perform a spatio-temporal analysis of the educational factors in African countries and the impact on their social and economical growth. 
 
@@ -16,12 +18,13 @@ As a further endeavor, using machine learning tools, we hope to come up with a n
 * Can we come up with a new index measuring the effectiveness of the educational endeavours of each country?
 
 # Dataset
-List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
+The datasets we will use are retreived from the *African Development Bank Group* statistical data portal. A series of 200+ socio-economic indicators are provided for each country, per year. Each entry of the datasets is for a specific indicator, for a specific country and for a specific year. A grouping will be performed based on the countries, years and indicators such that the cleaned dataframe would be using a two-dimensional indexing: **country** & **year**. The columns will then correspond to the different indicator values.
 * [AfDB Socio Economic Database, 1960-2019.](https://data.humdata.org/dataset/afdb-socio-economic-database-1960-2019)
 * [Fragile States - Socio Economic Database, 2015.](https://data.humdata.org/dataset/fragile-states-socio-economic-database-2015)
+The datasets would eventually be complemented with further data if needed.
 
 # A list of internal milestones up until project milestone 2
-Add here a sketch of your planning for the next project milestone.
+
 
 # Questions for TAa
-Add here some questions you have for us, in general or project-specific.
+
