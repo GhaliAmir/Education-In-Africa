@@ -9,7 +9,11 @@ As a further endeavor, using machine learning tools, we hope to come up with a n
 
 
 # Research questions
-A list of research questions you would like to address during the project. 
+* What are the general trends of education importance in African countries in relation to georgraphy and time?
+* What relations can be extracted between education and other socio-economic indicators?
+* What conclusions can be drawn from the importance of education in economic growth?
+* What factors are most influenced by the educational approach of each country?
+* Can we come up with a new index measuring the effectiveness of the educational endeavours of each country?
 
 # Dataset
 List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
