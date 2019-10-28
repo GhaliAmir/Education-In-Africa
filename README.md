@@ -1,7 +1,12 @@
 # Education In Africa
 
 # Abstract
-A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
+The African Development Bank Group statistical data portal offers an immense range of socio-economic indicators for each African country from 1960 until now. This three-dimensional data precision (country, year, over 200 indicators) provides sufficient tools for our project to perform a spatio-temporal analysis of the educational factors in African countries and the impact on their social and economical growth. 
+
+The African continent is made of young developing countries and is full of unexploited resources and unexplored richness. This thus provides a ground for development and growth. In an absence of financial resources and historical power, education is the best tool for a socio-economical revolution, especially when we consider that this continent has a demographically young population. 
+
+As a further endeavor, we hope to come up with a prediction model of 
+
 
 # Research questions
 A list of research questions you would like to address during the project. 
