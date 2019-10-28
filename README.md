@@ -21,6 +21,7 @@ As a further endeavor, using machine learning tools, we hope to come up with a n
 The datasets we will use are retreived from the *African Development Bank Group* statistical data portal. A series of 200+ socio-economic indicators are provided for each country, per year. Each entry of the datasets is for a specific indicator, for a specific country and for a specific year. A grouping will be performed based on the countries, years and indicators such that the cleaned dataframe would be using a two-dimensional indexing: **country** & **year**. The columns will then correspond to the different indicator values.
 * [AfDB Socio Economic Database, 1960-2019.](https://data.humdata.org/dataset/afdb-socio-economic-database-1960-2019)
 * [Fragile States - Socio Economic Database, 2015.](https://data.humdata.org/dataset/fragile-states-socio-economic-database-2015)
+
 The datasets would eventually be complemented with further data if needed.
 
 # A list of internal milestones up until project milestone 2
