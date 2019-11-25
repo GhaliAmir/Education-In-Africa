@@ -29,7 +29,6 @@ Our dataset is quite imposant with nearly 2.8 Million row information, because o
 We didn't have any missing value to deal with for most important columns (Date,country..), missing values were in the indexes values.
 
 ## 1.Education
-
 We first extracted all Education-related indexes by looking for Education keywords in the names and descriptions of all our indexes.
 We went further by reading their descriptions (They were only 28) to be sure that indeed they are education indexes.
 One example would be eliminating some GDP index because it had "international" in its description, when we were looking for "intern" or "internship" with prefix "intern".
@@ -51,9 +50,12 @@ We looked at the key economical indicators for development on several online res
 Although the dataset contains values for the previously mentionned fields, some included a considerable number of missing fields as some countries did not give statistics about them. We looked for the indicators in the dataset that had a wide enough range of values. 
 
 ## 3.Next 
-
-* A more thorough analysis of the meaningfullness of the kept indicators is required for the next milestone before correlating it with the education indicators found.
-* Come up with a way to create a X,Y relationship for a linear regression model representing the impact of education on economical development. Feature selection tools will be used in an extensive manner.
+* We will perfom a detailed geographical analysis on the distribution of our indicators (both education and development) using the visual maps generated.
+* A more thorough analysis of the meaningfullness of the kept socio-economic indicators is required for the next milestone before correlating them with the education indicators found and hence try to find an index measuring the effectiveness of education and its contribution to the socio-economical growth.
+* We want to find a formula summarizing education in only one index. We will try to use machine learning tools for this operation.
+* We will interpret the influence of education on countries' growth and depending on the observed results, we will eventually compare the education domain to others (agrictulture, service... ) and if it's really "worth it" to invest in one or the other. 
+* We will eventually try to come up with a way to create a X,Y relationship for a linear regression model representing the impact of education on economical development. Feature selection tools will be used in an extensive manner.
+* For the comparison part, we will restrain the year range to between 1980 and 2015 as most of the values for the indicators are missing outside of this time period. 
 
 # Questions for TAa
 
