@@ -1,6 +1,6 @@
 # Education In Africa
 
-Investing in young minds as a business model.
+Investing in young minds as a business model.  
 Check out our story here: https://ghaliamir.github.io/EducationInAfrica.github.io
 
 ## Abstract
