@@ -25,15 +25,15 @@ The datasets we will use are retreived from the *African Development Bank Group*
 
 ## Contributions
 
-*Amir Ghali:   
+-Amir Ghali:   
 Data Preprocessing, Education, plots and maps, statistics and analysis, code cleaning and comments, gitpage (website).
 
-*Aymen Bahroun:    
+-Aymen Bahroun:    
 Data Preprocessing, Socio-Economic, plots and maps, statistics and analysis, code cleaning and comments, correlation analysis.
 
-*Mahmoud Sellami:    
+-Mahmoud Sellami:    
 Data Preprocessing, Socio-Economic, plots and maps, statistics and analysis, data stories.
 
-*Salim Ben Ghorbel:    
+-Salim Ben Ghorbel:    
 Data Preprocessing, Education, Socio-Economic, plots and maps, Machine learning, statistics and analysis, gitpage (website), data stories.
 
