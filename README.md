@@ -1,6 +1,7 @@
 # Education In Africa
 
-Investing in young minds as a business model.
+Investing in young minds as a business model.  
+Check out our story here: https://ghaliamir.github.io/EducationInAfrica.github.io
 
 ## Abstract
 The *African Development Bank Group* statistical data portal offers an immense range of socio-economic indicators for each African country from 1960 until now. This three-dimensional data precision (country, year, over 200 indicators) provides sufficient tools for our project to perform a spatio-temporal analysis of the educational factors in African countries and the impact on their social and economical growth. 
