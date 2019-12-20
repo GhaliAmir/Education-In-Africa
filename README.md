@@ -23,6 +23,16 @@ The datasets we will use are retreived from the *African Development Bank Group*
 * [AfDB Socio Economic Database, 1960-2019.](https://data.humdata.org/dataset/afdb-socio-economic-database-1960-2019)
 * [Fragile States - Socio Economic Database, 2015.](https://data.humdata.org/dataset/fragile-states-socio-economic-database-2015)
 
+## Contributions
 
+-Amir Ghali: Data Preprocessing, Education, plots and maps, statistics and analysis, code cleaning and comments, 
+gitpage (website).
+
+-Aymen Bahroun: Data Preprocessing, Socio-Economic, plots and maps, statistics and analysis, code cleaning and comments, correlation analysis.
+
+-Mahmoud Sellami: Data Preprocessing, Socio-Economic, plots and maps, statistics and analysis, data stories.
+
+-Salim Ben Ghorbel: Data Preprocessing, Education, Socio-Economic, plots and maps, Machine learning, statistics and analysis, 
+gitpage (website), data stories.
 
 
